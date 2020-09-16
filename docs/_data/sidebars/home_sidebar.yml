@@ -10,8 +10,23 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
-      url: core.html
+      title: blah bitahon
+      url: bitahon_intro.html
+    - output: web,pdf
+      title: Title
+      url: variables.html
+    - output: web,pdf
+      title: solutions-checkpoint
+      url: solutions-checkpoint.html
+    - output: web,pdf
+      title: questions
+      url: questions.html
+    - output: web,pdf
+      title: solutions
+      url: solutions.html
+    - output: web,pdf
+      title: sdsdsd
+      url: sdfsdf_dfdf_trying_out_python.html
     output: web
     title: learnpython
   output: web

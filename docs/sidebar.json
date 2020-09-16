@@ -1,6 +1,11 @@
 {
   "learnpython": {
     "Overview": "/",
-    "module name here": "core.html"
+    "blah bitahon": "bitahon_intro.html",
+    "Title": "variables.html",
+    "solutions-checkpoint": "solutions-checkpoint.html",
+    "questions": "questions.html",
+    "solutions": "solutions.html",
+    "sdsdsd": "sdfsdf_dfdf_trying_out_python.html"
   }
 }
